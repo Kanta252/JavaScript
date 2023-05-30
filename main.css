@@ -1,0 +1,10 @@
+button {
+ display: inline-block;
+ color: #000000;
+ background-color: #BBBBBB;
+}
+
+button:disabled {
+ cursor: default;
+ background-color: #DDDDDD;
+}
